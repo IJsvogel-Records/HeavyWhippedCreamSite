@@ -89,7 +89,7 @@
 
 }
 #slide-body{
-    max-height: 31.5em;    
+    max-height: 40em;    
     overflow: hidden;
     transition:             max-height 700ms ease;
         -moz-transition:    max-height 700ms ease;
