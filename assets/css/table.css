@@ -131,3 +131,25 @@
 #more:hover{
   background-color: #d46c65;
 }
+
+.ticket-button {
+  width: 75px;
+  padding: 4px;
+  margin: 8px 0px 8px 0px;
+  background-color: #e97770;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.ticket-button:hover {
+  background-color: #9e504c;
+}
+
+.ticket-button span {
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+.ticket-link {
+  text-decoration: none;
+}
