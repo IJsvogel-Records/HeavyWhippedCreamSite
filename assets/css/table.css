@@ -153,3 +153,13 @@
 .ticket-link {
   text-decoration: none;
 }
+
+.sub-header {
+  text-align: center;
+}
+
+.sub-header h2 {
+  font-size: 1.5em;
+  letter-spacing: 0.075em;
+  line-height: 1.5em;
+}

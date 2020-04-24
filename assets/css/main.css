@@ -1538,6 +1538,10 @@
 		padding-right: 10px;
 	}
 
+	.album-list {
+		margin-bottom: 3em;
+	}
+
 /* Icons */
 
 	.icon {
