@@ -1086,7 +1086,7 @@
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: #484d55;
 	}
 
 	body.is-loading * {
